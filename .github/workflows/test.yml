@@ -1,0 +1,10 @@
+---
+name: Test
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - run: make clean symbols
+
