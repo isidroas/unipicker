@@ -1,7 +1,5 @@
-diff --git b/Blocks.txt a/Blocks.txt
-index a4f851b..fd375bb 100644
---- b/Blocks.txt
-+++ a/Blocks.txt
+--- Blocks.txt	2023-08-28 18:08:56.000000000 +0200
++++ BlocksReduced.txt	2024-01-02 18:59:03.138178876 +0100
 @@ -45,20 +45,20 @@
  0530..058F; Armenian
  0590..05FF; Hebrew
@@ -208,7 +206,7 @@ index a4f851b..fd375bb 100644
  FE50..FE6F; Small Form Variants
  FE70..FEFF; Arabic Presentation Forms-B
  FF00..FFEF; Halfwidth and Fullwidth Forms
-@@ -205,130 +205,130 @@ FFF0..FFFF; Specials
+@@ -207,39 +207,39 @@
  102E0..102FF; Coptic Epact Numbers
  10300..1032F; Old Italic
  10330..1034F; Gothic
@@ -273,8 +271,7 @@ index a4f851b..fd375bb 100644
  10E80..10EBF; Yezidi
  10EC0..10EFF; Arabic Extended-C
  10F00..10F2F; Old Sogdian
- 10F30..10F6F; Sogdian
- 10F70..10FAF; Old Uyghur
+@@ -248,89 +248,89 @@
  10FB0..10FDF; Chorasmian
  10FE0..10FFF; Elymaic
  11000..1107F; Brahmi
@@ -433,10 +430,7 @@ index a4f851b..fd375bb 100644
  1F000..1F02F; Mahjong Tiles
  1F030..1F09F; Domino Tiles
  1F0A0..1F0FF; Playing Cards
-@@ -302,21 +302,22 @@ FFF0..FFFF; Specials
- 1F780..1F7FF; Geometric Shapes Extended
- 1F800..1F8FF; Supplemental Arrows-C
- 1F900..1F9FF; Supplemental Symbols and Pictographs
+@@ -347,18 +347,19 @@
  1FA00..1FA6F; Chess Symbols
  1FA70..1FAFF; Symbols and Pictographs Extended-A
  1FB00..1FBFF; Symbols for Legacy Computing
