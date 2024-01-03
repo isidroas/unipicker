@@ -16,7 +16,7 @@ jobs:
     - name: symbols stored in repository should be updated
       run: test -z $(git ls-files --modified)
     - name: Reverse generate Blocks.patch
-      run: diff -u Blocks.txt BlocksReduced.txt | tee Blocks.patch
+      run: diff -u Blocks.txt BlocksReduced.txt | sed 1,2d | tee Blocks.patch
     - name: debug
       run: git diff
     - name: test uniform format for patch (gnu diff)
