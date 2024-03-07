@@ -14,7 +14,7 @@ jobs:
     - name: generate symbols
       run: make clean symbols
     - name: symbols stored in repository should be updated
-      run: test -z $(git ls-files --modified)
+      run: test -n $(git ls-files --modified)
     - name: Reverse generate Blocks.patch
       run: diff -u Blocks.txt BlocksReduced.txt | sed 1,2d | tee Blocks.patch
     - name: debug in case next step fails
