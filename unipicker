@@ -20,6 +20,8 @@ usage () {
   echo "  UNIPICKER_SYMBOLS_FILE    Location of symbols (/usr/share/unipicker/symbols or ~/.local/share/unipicker/symbols or ${PWD}/symbols)"
 }
 
+only_list=false
+
 while [ -n "$1" ];do
     case "$1" in
         --command)
@@ -31,8 +33,7 @@ while [ -n "$1" ];do
             shift
             ;;
         --list)
-            cat "$symbols_file"
-            exit;;
+            only_list=true;;
         -h|--help)
             usage
             exit;;
@@ -43,7 +44,8 @@ while [ -n "$1" ];do
     shift
 done
 
-if [ -f $symbols_file ] ; then
+# https://unix.stackexchange.com/a/460953/483523 magicaly takes "-f" as string
+if [ ! -f "$symbols_file" ] ; then
     if [ -f /usr/share/unipicker/symbols ]; then
         symbols_file=/usr/share/unipicker/symbols
     elif [ -f ~/.local/share/unipicker/symbols ]; then
@@ -55,4 +57,11 @@ if [ -f $symbols_file ] ; then
         exit 1
     fi
 fi
-cat "$symbols_file" | $select_command | sed -E 's/^(.).*/\1/g'
+
+
+if [ "$only_list" = true ] ; then
+    cat "$symbols_file"
+else
+    cat "$symbols_file" | $select_command | sed -E 's/^(.).*/\1/g'
+fi
+
