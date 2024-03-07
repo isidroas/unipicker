@@ -1,5 +1,4 @@
-DESTDIR = 
-PREFIX = $(DESTDIR)/usr/local
+PREFIX = /usr/local
 UNICODE_VERSION = 15.1.0
 
 all: symbols
@@ -20,8 +19,6 @@ install: symbols
 	install -m755 unipicker $(PREFIX)/bin/unipicker
 	install -d -m755 $(PREFIX)/share/unipicker
 	install -m644 symbols $(PREFIX)/share/unipicker/symbols
-	install -d -m755 $(DESTDIR)/etc
-	install -b -m644 unipickerrc $(DESTDIR)/etc/unipickerrc
 
 clean:
 	rm -f Blocks.txt BlocksReduced.txt symbols
