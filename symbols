@@ -1460,6 +1460,7 @@ z latin small letter z                                           7A Basic Latin
 ؚ arabic small kasra                                            61A Arabic
 ؛ arabic semicolon                                              61B Arabic
 ؜ arabic letter mark                                            61C Arabic
+؝ arabic end of text mark                                       61D Arabic
 ؞ arabic triple dot punctuation mark                            61E Arabic
 ؟ arabic question mark                                          61F Arabic
 ؠ arabic letter kashmiri yeh                                    620 Arabic
@@ -2135,6 +2136,7 @@ z latin small letter z                                           7A Basic Latin
 ష telugu letter ssa                                             C37 Telugu
 స telugu letter sa                                              C38 Telugu
 హ telugu letter ha                                              C39 Telugu
+఼ telugu sign nukta                                             C3C Telugu
 ఽ telugu sign avagraha                                          C3D Telugu
 ా telugu vowel sign aa                                          C3E Telugu
 ి telugu vowel sign i                                           C3F Telugu
@@ -2155,6 +2157,7 @@ z latin small letter z                                           7A Basic Latin
 ౘ telugu letter tsa                                             C58 Telugu
 ౙ telugu letter dza                                             C59 Telugu
 ౚ telugu letter rrra                                            C5A Telugu
+ౝ telugu letter nakaara pollu                                   C5D Telugu
 ౠ telugu letter vocalic rr                                      C60 Telugu
 ౡ telugu letter vocalic ll                                      C61 Telugu
 ౢ telugu vowel sign vocalic l                                   C62 Telugu
@@ -2250,6 +2253,7 @@ z latin small letter z                                           7A Basic Latin
 ್ kannada sign virama                                           CCD Kannada
 ೕ kannada length mark                                           CD5 Kannada
 ೖ kannada ai length mark                                        CD6 Kannada
+ೝ kannada letter nakaara pollu                                  CDD Kannada
 ೞ kannada letter fa                                             CDE Kannada
 ೠ kannada letter vocalic rr                                     CE0 Kannada
 ೡ kannada letter vocalic ll                                     CE1 Kannada
@@ -4165,6 +4169,7 @@ z latin small letter z                                           7A Basic Latin
 ᜊ tagalog letter ba                                            170A Tagalog
 ᜋ tagalog letter ma                                            170B Tagalog
 ᜌ tagalog letter ya                                            170C Tagalog
+ᜍ tagalog letter ra                                            170D Tagalog
 ᜎ tagalog letter la                                            170E Tagalog
 ᜏ tagalog letter wa                                            170F Tagalog
 ᜐ tagalog letter sa                                            1710 Tagalog
@@ -4172,6 +4177,8 @@ z latin small letter z                                           7A Basic Latin
 ᜒ tagalog vowel sign i                                         1712 Tagalog
 ᜓ tagalog vowel sign u                                         1713 Tagalog
 ᜔ tagalog sign virama                                          1714 Tagalog
+᜕ tagalog sign pamudpod                                        1715 Tagalog
+ᜟ tagalog letter archaic ra                                    171F Tagalog
 ᠀ mongolian birga                                              1800 Mongolian
 ᠁ mongolian ellipsis                                           1801 Mongolian
 ᠂ mongolian comma                                              1802 Mongolian
@@ -4187,6 +4194,7 @@ z latin small letter z                                           7A Basic Latin
 ᠌ mongolian free variation selector two                        180C Mongolian
 ᠍ mongolian free variation selector three                      180D Mongolian
 ᠎ mongolian vowel separator                                    180E Mongolian
+᠏ mongolian free variation selector four                       180F Mongolian
 ᠐ mongolian digit zero                                         1810 Mongolian
 ᠑ mongolian digit one                                          1811 Mongolian
 ᠒ mongolian digit two                                          1812 Mongolian
@@ -4346,6 +4354,20 @@ z latin small letter z                                           7A Basic Latin
 ᪾ combining parentheses overlay                                1ABE Combining Diacritical Marks Extended
 ᪿ combining latin small letter w below                         1ABF Combining Diacritical Marks Extended
 ᫀ combining latin small letter turned w below                  1AC0 Combining Diacritical Marks Extended
+᫁ combining left parenthesis above left                        1AC1 Combining Diacritical Marks Extended
+᫂ combining right parenthesis above right                      1AC2 Combining Diacritical Marks Extended
+᫃ combining left parenthesis below left                        1AC3 Combining Diacritical Marks Extended
+᫄ combining right parenthesis below right                      1AC4 Combining Diacritical Marks Extended
+᫅ combining square brackets above                              1AC5 Combining Diacritical Marks Extended
+᫆ combining number sign above                                  1AC6 Combining Diacritical Marks Extended
+᫇ combining inverted double arch above                         1AC7 Combining Diacritical Marks Extended
+᫈ combining plus sign above                                    1AC8 Combining Diacritical Marks Extended
+᫉ combining double plus sign above                             1AC9 Combining Diacritical Marks Extended
+᫊ combining double plus sign below                             1ACA Combining Diacritical Marks Extended
+᫋ combining triple acute accent                                1ACB Combining Diacritical Marks Extended
+ᫌ combining latin small letter insular g                       1ACC Combining Diacritical Marks Extended
+ᫍ combining latin small letter insular r                       1ACD Combining Diacritical Marks Extended
+ᫎ combining latin small letter insular t                       1ACE Combining Diacritical Marks Extended
 ᳐ vedic tone karshana                                          1CD0 Vedic Extensions
 ᳑ vedic tone shara                                             1CD1 Vedic Extensions
 ᳒ vedic tone prenkha                                           1CD2 Vedic Extensions
@@ -4639,6 +4661,7 @@ z latin small letter z                                           7A Basic Latin
 ᷷ combining kavyka above left                                  1DF7 Combining Diacritical Marks Supplement
 ᷸ combining dot above left                                     1DF8 Combining Diacritical Marks Supplement
 ᷹ combining wide inverted bridge below                         1DF9 Combining Diacritical Marks Supplement
+᷺ combining dot below left                                     1DFA Combining Diacritical Marks Supplement
 ᷻ combining deletion mark                                      1DFB Combining Diacritical Marks Supplement
 ᷼ combining double inverted breve below                        1DFC Combining Diacritical Marks Supplement
 ᷽ combining almost equal to below                              1DFD Combining Diacritical Marks Supplement
@@ -5318,6 +5341,7 @@ z latin small letter z                                           7A Basic Latin
 ₽ ruble sign                                                   20BD Currency Symbols
 ₾ lari sign                                                    20BE Currency Symbols
 ₿ bitcoin sign                                                 20BF Currency Symbols
+⃀ som sign                                                     20C0 Currency Symbols
 ⃐ combining left harpoon above                                 20D0 Combining Diacritical Marks for Symbols
 ⃑ combining right harpoon above                                20D1 Combining Diacritical Marks for Symbols
 ⃒ combining long vertical line overlay                         20D2 Combining Diacritical Marks for Symbols
@@ -8161,6 +8185,7 @@ z latin small letter z                                           7A Basic Latin
 Ⱜ glagolitic capital letter shtapic                            2C2C Glagolitic
 Ⱝ glagolitic capital letter trokutasti a                       2C2D Glagolitic
 Ⱞ glagolitic capital letter latinate myslite                   2C2E Glagolitic
+Ⱟ glagolitic capital letter caudate chrivi                     2C2F Glagolitic
 ⰰ glagolitic small letter azu                                  2C30 Glagolitic
 ⰱ glagolitic small letter buky                                 2C31 Glagolitic
 ⰲ glagolitic small letter vede                                 2C32 Glagolitic
@@ -8208,6 +8233,7 @@ z latin small letter z                                           7A Basic Latin
 ⱜ glagolitic small letter shtapic                              2C5C Glagolitic
 ⱝ glagolitic small letter trokutasti a                         2C5D Glagolitic
 ⱞ glagolitic small letter latinate myslite                     2C5E Glagolitic
+ⱟ glagolitic small letter caudate chrivi                       2C5F Glagolitic
 Ⱡ latin capital letter l with double bar                       2C60 Latin Extended-C
 ⱡ latin small letter l with double bar                         2C61 Latin Extended-C
 Ɫ latin capital letter l with middle tilde                     2C62 Latin Extended-C
@@ -9082,6 +9108,8 @@ z latin small letter z                                           7A Basic Latin
 ꞽ latin small letter glottal i                                 A7BD Latin Extended-D
 Ꞿ latin capital letter glottal u                               A7BE Latin Extended-D
 ꞿ latin small letter glottal u                                 A7BF Latin Extended-D
+Ꟁ latin capital letter old polish o                            A7C0 Latin Extended-D
+ꟁ latin small letter old polish o                              A7C1 Latin Extended-D
 Ꟃ latin capital letter anglicana w                             A7C2 Latin Extended-D
 ꟃ latin small letter anglicana w                               A7C3 Latin Extended-D
 Ꞔ latin capital letter c with palatal hook                     A7C4 Latin Extended-D
@@ -9091,6 +9119,17 @@ z latin small letter z                                           7A Basic Latin
 ꟈ latin small letter d with short stroke overlay               A7C8 Latin Extended-D
 Ꟊ latin capital letter s with short stroke overlay             A7C9 Latin Extended-D
 ꟊ latin small letter s with short stroke overlay               A7CA Latin Extended-D
+Ꟑ latin capital letter closed insular g                        A7D0 Latin Extended-D
+ꟑ latin small letter closed insular g                          A7D1 Latin Extended-D
+ꟓ latin small letter double thorn                              A7D3 Latin Extended-D
+ꟕ latin small letter double wynn                               A7D5 Latin Extended-D
+Ꟗ latin capital letter middle scots s                          A7D6 Latin Extended-D
+ꟗ latin small letter middle scots s                            A7D7 Latin Extended-D
+Ꟙ latin capital letter sigmoid s                               A7D8 Latin Extended-D
+ꟙ latin small letter sigmoid s                                 A7D9 Latin Extended-D
+ꟲ modifier letter capital c                                    A7F2 Latin Extended-D
+ꟳ modifier letter capital f                                    A7F3 Latin Extended-D
+ꟴ modifier letter capital q                                    A7F4 Latin Extended-D
 Ꟶ latin capital letter reversed half h                         A7F5 Latin Extended-D
 ꟶ latin small letter reversed half h                           A7F6 Latin Extended-D
 ꟷ latin epigraphic letter sideways i                           A7F7 Latin Extended-D
@@ -9344,6 +9383,7 @@ z latin small letter z                                           7A Basic Latin
 ﮿ arabic symbol ring                                           FBBF Arabic Presentation Forms-A
 ﯀ arabic symbol small tah above                                FBC0 Arabic Presentation Forms-A
 ﯁ arabic symbol small tah below                                FBC1 Arabic Presentation Forms-A
+﯂ arabic symbol wasla above                                    FBC2 Arabic Presentation Forms-A
 ﯓ arabic letter ng isolated form                               FBD3 Arabic Presentation Forms-A
 ﯔ arabic letter ng final form                                  FBD4 Arabic Presentation Forms-A
 ﯕ arabic letter ng initial form                                FBD5 Arabic Presentation Forms-A
@@ -9709,6 +9749,22 @@ z latin small letter z                                           7A Basic Latin
 ﴽ arabic ligature alef with fathatan isolated form             FD3D Arabic Presentation Forms-A
 ﴾ ornate left parenthesis                                      FD3E Arabic Presentation Forms-A
 ﴿ ornate right parenthesis                                     FD3F Arabic Presentation Forms-A
+﵀ arabic ligature rahimahu allaah                              FD40 Arabic Presentation Forms-A
+﵁ arabic ligature radi allaahu anh                             FD41 Arabic Presentation Forms-A
+﵂ arabic ligature radi allaahu anhaa                           FD42 Arabic Presentation Forms-A
+﵃ arabic ligature radi allaahu anhum                           FD43 Arabic Presentation Forms-A
+﵄ arabic ligature radi allaahu anhumaa                         FD44 Arabic Presentation Forms-A
+﵅ arabic ligature radi allaahu anhunna                         FD45 Arabic Presentation Forms-A
+﵆ arabic ligature sallallaahu alayhi wa-aalih                  FD46 Arabic Presentation Forms-A
+﵇ arabic ligature alayhi as-salaam                             FD47 Arabic Presentation Forms-A
+﵈ arabic ligature alayhim as-salaam                            FD48 Arabic Presentation Forms-A
+﵉ arabic ligature alayhimaa as-salaam                          FD49 Arabic Presentation Forms-A
+﵊ arabic ligature alayhi as-salaatu was-salaam                 FD4A Arabic Presentation Forms-A
+﵋ arabic ligature quddisa sirrah                               FD4B Arabic Presentation Forms-A
+﵌ arabic ligature sallallahu alayhi waaalihee wa-sallam        FD4C Arabic Presentation Forms-A
+﵍ arabic ligature alayhaa as-salaam                            FD4D Arabic Presentation Forms-A
+﵎ arabic ligature tabaaraka wa-taaalaa                         FD4E Arabic Presentation Forms-A
+﵏ arabic ligature rahimahum allaah                             FD4F Arabic Presentation Forms-A
 ﵐ arabic ligature teh with jeem with meem initial form         FD50 Arabic Presentation Forms-A
 ﵑ arabic ligature teh with hah with jeem final form            FD51 Arabic Presentation Forms-A
 ﵒ arabic ligature teh with hah with jeem initial form          FD52 Arabic Presentation Forms-A
@@ -9827,6 +9883,7 @@ z latin small letter z                                           7A Basic Latin
 ﷅ arabic ligature sad with meem with meem initial form         FDC5 Arabic Presentation Forms-A
 ﷆ arabic ligature seen with khah with yeh final form           FDC6 Arabic Presentation Forms-A
 ﷇ arabic ligature noon with jeem with yeh final form           FDC7 Arabic Presentation Forms-A
+﷏ arabic ligature salaamuhu alaynaa                            FDCF Arabic Presentation Forms-A
 ﷰ arabic ligature salla used as koranic stop sign isolated form   FDF0 Arabic Presentation Forms-A
 ﷱ arabic ligature qala used as koranic stop sign isolated form   FDF1 Arabic Presentation Forms-A
 ﷲ arabic ligature allah isolated form                          FDF2 Arabic Presentation Forms-A
@@ -9841,6 +9898,8 @@ z latin small letter z                                           7A Basic Latin
 ﷻ arabic ligature jallajalalouhou                              FDFB Arabic Presentation Forms-A
 ﷼ rial sign                                                    FDFC Arabic Presentation Forms-A
 ﷽ arabic ligature bismillah ar-rahman ar-raheem                FDFD Arabic Presentation Forms-A
+﷾ arabic ligature subhaanahu wa taaalaa                        FDFE Arabic Presentation Forms-A
+﷿ arabic ligature azza wa jall                                 FDFF Arabic Presentation Forms-A
 ﹐ small comma                                                  FE50 Small Form Variants
 ﹑ small ideographic comma                                      FE51 Small Form Variants
 ﹒ small full stop                                              FE52 Small Form Variants
@@ -11208,6 +11267,63 @@ z latin small letter z                                           7A Basic Latin
 𐝥 linear a sign a805                                          10765 Linear A
 𐝦 linear a sign a806                                          10766 Linear A
 𐝧 linear a sign a807                                          10767 Linear A
+𐞀 modifier letter small capital aa                            10780 Latin Extended-F
+𐞁 modifier letter superscript triangular colon                10781 Latin Extended-F
+𐞂 modifier letter superscript half triangular colon           10782 Latin Extended-F
+𐞃 modifier letter small ae                                    10783 Latin Extended-F
+𐞄 modifier letter small capital b                             10784 Latin Extended-F
+𐞅 modifier letter small b with hook                           10785 Latin Extended-F
+𐞇 modifier letter small dz digraph                            10787 Latin Extended-F
+𐞈 modifier letter small dz digraph with retroflex hook        10788 Latin Extended-F
+𐞉 modifier letter small dz digraph with curl                  10789 Latin Extended-F
+𐞊 modifier letter small dezh digraph                          1078A Latin Extended-F
+𐞋 modifier letter small d with tail                           1078B Latin Extended-F
+𐞌 modifier letter small d with hook                           1078C Latin Extended-F
+𐞍 modifier letter small d with hook and tail                  1078D Latin Extended-F
+𐞎 modifier letter small reversed e                            1078E Latin Extended-F
+𐞏 modifier letter small closed reversed open e                1078F Latin Extended-F
+𐞐 modifier letter small feng digraph                          10790 Latin Extended-F
+𐞑 modifier letter small rams horn                             10791 Latin Extended-F
+𐞒 modifier letter small capital g                             10792 Latin Extended-F
+𐞓 modifier letter small g with hook                           10793 Latin Extended-F
+𐞔 modifier letter small capital g with hook                   10794 Latin Extended-F
+𐞕 modifier letter small h with stroke                         10795 Latin Extended-F
+𐞖 modifier letter small capital h                             10796 Latin Extended-F
+𐞗 modifier letter small heng with hook                        10797 Latin Extended-F
+𐞘 modifier letter small dotless j with stroke and hook        10798 Latin Extended-F
+𐞙 modifier letter small ls digraph                            10799 Latin Extended-F
+𐞚 modifier letter small lz digraph                            1079A Latin Extended-F
+𐞛 modifier letter small l with belt                           1079B Latin Extended-F
+𐞜 modifier letter small capital l with belt                   1079C Latin Extended-F
+𐞝 modifier letter small l with retroflex hook and belt        1079D Latin Extended-F
+𐞞 modifier letter small lezh                                  1079E Latin Extended-F
+𐞟 modifier letter small lezh with retroflex hook              1079F Latin Extended-F
+𐞠 modifier letter small turned y                              107A0 Latin Extended-F
+𐞡 modifier letter small turned y with belt                    107A1 Latin Extended-F
+𐞢 modifier letter small o with stroke                         107A2 Latin Extended-F
+𐞣 modifier letter small capital oe                            107A3 Latin Extended-F
+𐞤 modifier letter small closed omega                          107A4 Latin Extended-F
+𐞥 modifier letter small q                                     107A5 Latin Extended-F
+𐞦 modifier letter small turned r with long leg                107A6 Latin Extended-F
+𐞧 modifier letter small turned r with long leg and retroflex hook  107A7 Latin Extended-F
+𐞨 modifier letter small r with tail                           107A8 Latin Extended-F
+𐞩 modifier letter small r with fishhook                       107A9 Latin Extended-F
+𐞪 modifier letter small capital r                             107AA Latin Extended-F
+𐞫 modifier letter small tc digraph with curl                  107AB Latin Extended-F
+𐞬 modifier letter small ts digraph                            107AC Latin Extended-F
+𐞭 modifier letter small ts digraph with retroflex hook        107AD Latin Extended-F
+𐞮 modifier letter small tesh digraph                          107AE Latin Extended-F
+𐞯 modifier letter small t with retroflex hook                 107AF Latin Extended-F
+𐞰 modifier letter small v with right hook                     107B0 Latin Extended-F
+𐞲 modifier letter small capital y                             107B2 Latin Extended-F
+𐞳 modifier letter glottal stop with stroke                    107B3 Latin Extended-F
+𐞴 modifier letter reversed glottal stop with stroke           107B4 Latin Extended-F
+𐞵 modifier letter bilabial click                              107B5 Latin Extended-F
+𐞶 modifier letter dental click                                107B6 Latin Extended-F
+𐞷 modifier letter lateral click                               107B7 Latin Extended-F
+𐞸 modifier letter alveolar click                              107B8 Latin Extended-F
+𐞹 modifier letter retroflex click with retroflex hook         107B9 Latin Extended-F
+𐞺 modifier letter small s with curl                           107BA Latin Extended-F
 𐡠 palmyrene letter aleph                                      10860 Palmyrene
 𐡡 palmyrene letter beth                                       10861 Palmyrene
 𐡢 palmyrene letter gimel                                      10862 Palmyrene
@@ -11526,6 +11642,32 @@ z latin small letter z                                           7A Basic Latin
 𐽗 sogdian punctuation circle with dot                         10F57 Sogdian
 𐽘 sogdian punctuation two circles with dots                   10F58 Sogdian
 𐽙 sogdian punctuation half circle with dot                    10F59 Sogdian
+𐽰 old uyghur letter aleph                                     10F70 Old Uyghur
+𐽱 old uyghur letter beth                                      10F71 Old Uyghur
+𐽲 old uyghur letter gimel-heth                                10F72 Old Uyghur
+𐽳 old uyghur letter waw                                       10F73 Old Uyghur
+𐽴 old uyghur letter zayin                                     10F74 Old Uyghur
+𐽵 old uyghur letter final heth                                10F75 Old Uyghur
+𐽶 old uyghur letter yodh                                      10F76 Old Uyghur
+𐽷 old uyghur letter kaph                                      10F77 Old Uyghur
+𐽸 old uyghur letter lamedh                                    10F78 Old Uyghur
+𐽹 old uyghur letter mem                                       10F79 Old Uyghur
+𐽺 old uyghur letter nun                                       10F7A Old Uyghur
+𐽻 old uyghur letter samekh                                    10F7B Old Uyghur
+𐽼 old uyghur letter pe                                        10F7C Old Uyghur
+𐽽 old uyghur letter sadhe                                     10F7D Old Uyghur
+𐽾 old uyghur letter resh                                      10F7E Old Uyghur
+𐽿 old uyghur letter shin                                      10F7F Old Uyghur
+𐾀 old uyghur letter taw                                       10F80 Old Uyghur
+𐾁 old uyghur letter lesh                                      10F81 Old Uyghur
+𐾂 old uyghur combining dot above                              10F82 Old Uyghur
+𐾃 old uyghur combining dot below                              10F83 Old Uyghur
+𐾄 old uyghur combining two dots above                         10F84 Old Uyghur
+𐾅 old uyghur combining two dots below                         10F85 Old Uyghur
+𐾆 old uyghur punctuation bar                                  10F86 Old Uyghur
+𐾇 old uyghur punctuation two bars                             10F87 Old Uyghur
+𐾈 old uyghur punctuation two dots                             10F88 Old Uyghur
+𐾉 old uyghur punctuation four dots                            10F89 Old Uyghur
 𐾰 chorasmian letter aleph                                     10FB0 Chorasmian
 𐾱 chorasmian letter small aleph                               10FB1 Chorasmian
 𐾲 chorasmian letter beth                                      10FB2 Chorasmian
@@ -11685,6 +11827,12 @@ z latin small letter z                                           7A Basic Latin
 𑁭 brahmi digit seven                                          1106D Brahmi
 𑁮 brahmi digit eight                                          1106E Brahmi
 𑁯 brahmi digit nine                                           1106F Brahmi
+𑁰 brahmi sign old tamil virama                                11070 Brahmi
+𑁱 brahmi letter old tamil short e                             11071 Brahmi
+𑁲 brahmi letter old tamil short o                             11072 Brahmi
+𑁳 brahmi vowel sign old tamil short e                         11073 Brahmi
+𑁴 brahmi vowel sign old tamil short o                         11074 Brahmi
+𑁵 brahmi letter old tamil lla                                 11075 Brahmi
 𑁿 brahmi number joiner                                        1107F Brahmi
 𒀀 cuneiform sign a                                            12000 Cuneiform
 𒀁 cuneiform sign a times a                                    12001 Cuneiform
@@ -12920,6 +13068,105 @@ z latin small letter z                                           7A Basic Latin
 𒕁 cuneiform sign za7                                          12541 Early Dynastic Cuneiform
 𒕂 cuneiform sign zu over zu plus sar                          12542 Early Dynastic Cuneiform
 𒕃 cuneiform sign zu5 times three dish tenu                    12543 Early Dynastic Cuneiform
+𒾐 cypro-minoan sign cm001                                     12F90 Cypro-Minoan
+𒾑 cypro-minoan sign cm002                                     12F91 Cypro-Minoan
+𒾒 cypro-minoan sign cm004                                     12F92 Cypro-Minoan
+𒾓 cypro-minoan sign cm005                                     12F93 Cypro-Minoan
+𒾔 cypro-minoan sign cm006                                     12F94 Cypro-Minoan
+𒾕 cypro-minoan sign cm007                                     12F95 Cypro-Minoan
+𒾖 cypro-minoan sign cm008                                     12F96 Cypro-Minoan
+𒾗 cypro-minoan sign cm009                                     12F97 Cypro-Minoan
+𒾘 cypro-minoan sign cm010                                     12F98 Cypro-Minoan
+𒾙 cypro-minoan sign cm011                                     12F99 Cypro-Minoan
+𒾚 cypro-minoan sign cm012                                     12F9A Cypro-Minoan
+𒾛 cypro-minoan sign cm012b                                    12F9B Cypro-Minoan
+𒾜 cypro-minoan sign cm013                                     12F9C Cypro-Minoan
+𒾝 cypro-minoan sign cm015                                     12F9D Cypro-Minoan
+𒾞 cypro-minoan sign cm017                                     12F9E Cypro-Minoan
+𒾟 cypro-minoan sign cm019                                     12F9F Cypro-Minoan
+𒾠 cypro-minoan sign cm021                                     12FA0 Cypro-Minoan
+𒾡 cypro-minoan sign cm023                                     12FA1 Cypro-Minoan
+𒾢 cypro-minoan sign cm024                                     12FA2 Cypro-Minoan
+𒾣 cypro-minoan sign cm025                                     12FA3 Cypro-Minoan
+𒾤 cypro-minoan sign cm026                                     12FA4 Cypro-Minoan
+𒾥 cypro-minoan sign cm027                                     12FA5 Cypro-Minoan
+𒾦 cypro-minoan sign cm028                                     12FA6 Cypro-Minoan
+𒾧 cypro-minoan sign cm029                                     12FA7 Cypro-Minoan
+𒾨 cypro-minoan sign cm030                                     12FA8 Cypro-Minoan
+𒾩 cypro-minoan sign cm033                                     12FA9 Cypro-Minoan
+𒾪 cypro-minoan sign cm034                                     12FAA Cypro-Minoan
+𒾫 cypro-minoan sign cm035                                     12FAB Cypro-Minoan
+𒾬 cypro-minoan sign cm036                                     12FAC Cypro-Minoan
+𒾭 cypro-minoan sign cm037                                     12FAD Cypro-Minoan
+𒾮 cypro-minoan sign cm038                                     12FAE Cypro-Minoan
+𒾯 cypro-minoan sign cm039                                     12FAF Cypro-Minoan
+𒾰 cypro-minoan sign cm040                                     12FB0 Cypro-Minoan
+𒾱 cypro-minoan sign cm041                                     12FB1 Cypro-Minoan
+𒾲 cypro-minoan sign cm044                                     12FB2 Cypro-Minoan
+𒾳 cypro-minoan sign cm046                                     12FB3 Cypro-Minoan
+𒾴 cypro-minoan sign cm047                                     12FB4 Cypro-Minoan
+𒾵 cypro-minoan sign cm049                                     12FB5 Cypro-Minoan
+𒾶 cypro-minoan sign cm050                                     12FB6 Cypro-Minoan
+𒾷 cypro-minoan sign cm051                                     12FB7 Cypro-Minoan
+𒾸 cypro-minoan sign cm052                                     12FB8 Cypro-Minoan
+𒾹 cypro-minoan sign cm053                                     12FB9 Cypro-Minoan
+𒾺 cypro-minoan sign cm054                                     12FBA Cypro-Minoan
+𒾻 cypro-minoan sign cm055                                     12FBB Cypro-Minoan
+𒾼 cypro-minoan sign cm056                                     12FBC Cypro-Minoan
+𒾽 cypro-minoan sign cm058                                     12FBD Cypro-Minoan
+𒾾 cypro-minoan sign cm059                                     12FBE Cypro-Minoan
+𒾿 cypro-minoan sign cm060                                     12FBF Cypro-Minoan
+𒿀 cypro-minoan sign cm061                                     12FC0 Cypro-Minoan
+𒿁 cypro-minoan sign cm062                                     12FC1 Cypro-Minoan
+𒿂 cypro-minoan sign cm063                                     12FC2 Cypro-Minoan
+𒿃 cypro-minoan sign cm064                                     12FC3 Cypro-Minoan
+𒿄 cypro-minoan sign cm066                                     12FC4 Cypro-Minoan
+𒿅 cypro-minoan sign cm067                                     12FC5 Cypro-Minoan
+𒿆 cypro-minoan sign cm068                                     12FC6 Cypro-Minoan
+𒿇 cypro-minoan sign cm069                                     12FC7 Cypro-Minoan
+𒿈 cypro-minoan sign cm070                                     12FC8 Cypro-Minoan
+𒿉 cypro-minoan sign cm071                                     12FC9 Cypro-Minoan
+𒿊 cypro-minoan sign cm072                                     12FCA Cypro-Minoan
+𒿋 cypro-minoan sign cm073                                     12FCB Cypro-Minoan
+𒿌 cypro-minoan sign cm074                                     12FCC Cypro-Minoan
+𒿍 cypro-minoan sign cm075                                     12FCD Cypro-Minoan
+𒿎 cypro-minoan sign cm075b                                    12FCE Cypro-Minoan
+𒿏 cypro-minoan sign cm076                                     12FCF Cypro-Minoan
+𒿐 cypro-minoan sign cm078                                     12FD0 Cypro-Minoan
+𒿑 cypro-minoan sign cm079                                     12FD1 Cypro-Minoan
+𒿒 cypro-minoan sign cm080                                     12FD2 Cypro-Minoan
+𒿓 cypro-minoan sign cm081                                     12FD3 Cypro-Minoan
+𒿔 cypro-minoan sign cm082                                     12FD4 Cypro-Minoan
+𒿕 cypro-minoan sign cm083                                     12FD5 Cypro-Minoan
+𒿖 cypro-minoan sign cm084                                     12FD6 Cypro-Minoan
+𒿗 cypro-minoan sign cm085                                     12FD7 Cypro-Minoan
+𒿘 cypro-minoan sign cm086                                     12FD8 Cypro-Minoan
+𒿙 cypro-minoan sign cm087                                     12FD9 Cypro-Minoan
+𒿚 cypro-minoan sign cm088                                     12FDA Cypro-Minoan
+𒿛 cypro-minoan sign cm089                                     12FDB Cypro-Minoan
+𒿜 cypro-minoan sign cm090                                     12FDC Cypro-Minoan
+𒿝 cypro-minoan sign cm091                                     12FDD Cypro-Minoan
+𒿞 cypro-minoan sign cm092                                     12FDE Cypro-Minoan
+𒿟 cypro-minoan sign cm094                                     12FDF Cypro-Minoan
+𒿠 cypro-minoan sign cm095                                     12FE0 Cypro-Minoan
+𒿡 cypro-minoan sign cm096                                     12FE1 Cypro-Minoan
+𒿢 cypro-minoan sign cm097                                     12FE2 Cypro-Minoan
+𒿣 cypro-minoan sign cm098                                     12FE3 Cypro-Minoan
+𒿤 cypro-minoan sign cm099                                     12FE4 Cypro-Minoan
+𒿥 cypro-minoan sign cm100                                     12FE5 Cypro-Minoan
+𒿦 cypro-minoan sign cm101                                     12FE6 Cypro-Minoan
+𒿧 cypro-minoan sign cm102                                     12FE7 Cypro-Minoan
+𒿨 cypro-minoan sign cm103                                     12FE8 Cypro-Minoan
+𒿩 cypro-minoan sign cm104                                     12FE9 Cypro-Minoan
+𒿪 cypro-minoan sign cm105                                     12FEA Cypro-Minoan
+𒿫 cypro-minoan sign cm107                                     12FEB Cypro-Minoan
+𒿬 cypro-minoan sign cm108                                     12FEC Cypro-Minoan
+𒿭 cypro-minoan sign cm109                                     12FED Cypro-Minoan
+𒿮 cypro-minoan sign cm110                                     12FEE Cypro-Minoan
+𒿯 cypro-minoan sign cm112                                     12FEF Cypro-Minoan
+𒿰 cypro-minoan sign cm114                                     12FF0 Cypro-Minoan
+𒿱 cypro-minoan sign cm301                                     12FF1 Cypro-Minoan
+𒿲 cypro-minoan sign cm302                                     12FF2 Cypro-Minoan
 𓀀 egyptian hieroglyph a001                                    13000 Egyptian Hieroglyphs
 𓀁 egyptian hieroglyph a002                                    13001 Egyptian Hieroglyphs
 𓀂 egyptian hieroglyph a003                                    13002 Egyptian Hieroglyphs
@@ -14484,6 +14731,8 @@ z latin small letter z                                           7A Basic Latin
 𝇦 musical symbol kievan eighth note stem down                 1D1E6 Musical Symbols
 𝇧 musical symbol kievan eighth note stem up                   1D1E7 Musical Symbols
 𝇨 musical symbol kievan flat sign                             1D1E8 Musical Symbols
+𝇩 musical symbol sori                                         1D1E9 Musical Symbols
+𝇪 musical symbol koron                                        1D1EA Musical Symbols
 𝈀 greek vocal notation symbol-1                               1D200 Ancient Greek Musical Notation
 𝈁 greek vocal notation symbol-2                               1D201 Ancient Greek Musical Notation
 𝈂 greek vocal notation symbol-3                               1D202 Ancient Greek Musical Notation
@@ -17069,6 +17318,9 @@ z latin small letter z                                           7A Basic Latin
 🛕 hindu temple                                                1F6D5 Transport and Map Symbols
 🛖 hut                                                         1F6D6 Transport and Map Symbols
 🛗 elevator                                                    1F6D7 Transport and Map Symbols
+🛝 playground slide                                            1F6DD Transport and Map Symbols
+🛞 wheel                                                       1F6DE Transport and Map Symbols
+🛟 ring buoy                                                   1F6DF Transport and Map Symbols
 🛠 hammer and wrench                                           1F6E0 Transport and Map Symbols
 🛡 shield                                                      1F6E1 Transport and Map Symbols
 🛢 oil drum                                                    1F6E2 Transport and Map Symbols
@@ -17312,6 +17564,7 @@ z latin small letter z                                           7A Basic Latin
 🟩 large green square                                          1F7E9 Geometric Shapes Extended
 🟪 large purple square                                         1F7EA Geometric Shapes Extended
 🟫 large brown square                                          1F7EB Geometric Shapes Extended
+🟰 heavy equals sign                                           1F7F0 Geometric Shapes Extended
 🠀 leftwards arrow with small triangle arrowhead               1F800 Supplemental Arrows-C
 🠁 upwards arrow with small triangle arrowhead                 1F801 Supplemental Arrows-C
 🠂 rightwards arrow with small triangle arrowhead              1F802 Supplemental Arrows-C
@@ -17583,6 +17836,7 @@ z latin small letter z                                           7A Basic Latin
 🥶 freezing face                                               1F976 Supplemental Symbols and Pictographs
 🥷 ninja                                                       1F977 Supplemental Symbols and Pictographs
 🥸 disguised face                                              1F978 Supplemental Symbols and Pictographs
+🥹 face holding back tears                                     1F979 Supplemental Symbols and Pictographs
 🥺 face with pleading eyes                                     1F97A Supplemental Symbols and Pictographs
 🥻 sari                                                        1F97B Supplemental Symbols and Pictographs
 🥼 lab coat                                                    1F97C Supplemental Symbols and Pictographs
@@ -17665,6 +17919,7 @@ z latin small letter z                                           7A Basic Latin
 🧉 mate drink                                                  1F9C9 Supplemental Symbols and Pictographs
 🧊 ice cube                                                    1F9CA Supplemental Symbols and Pictographs
 🧋 bubble tea                                                  1F9CB Supplemental Symbols and Pictographs
+🧌 troll                                                       1F9CC Supplemental Symbols and Pictographs
 🧍 standing person                                             1F9CD Supplemental Symbols and Pictographs
 🧎 kneeling person                                             1F9CE Supplemental Symbols and Pictographs
 🧏 deaf person                                                 1F9CF Supplemental Symbols and Pictographs
@@ -17822,6 +18077,8 @@ z latin small letter z                                           7A Basic Latin
 🩸 drop of blood                                               1FA78 Symbols and Pictographs Extended-A
 🩹 adhesive bandage                                            1FA79 Symbols and Pictographs Extended-A
 🩺 stethoscope                                                 1FA7A Symbols and Pictographs Extended-A
+🩻 x-ray                                                       1FA7B Symbols and Pictographs Extended-A
+🩼 crutch                                                      1FA7C Symbols and Pictographs Extended-A
 🪀 yo-yo                                                       1FA80 Symbols and Pictographs Extended-A
 🪁 kite                                                        1FA81 Symbols and Pictographs Extended-A
 🪂 parachute                                                   1FA82 Symbols and Pictographs Extended-A
@@ -17854,6 +18111,10 @@ z latin small letter z                                           7A Basic Latin
 🪦 headstone                                                   1FAA6 Symbols and Pictographs Extended-A
 🪧 placard                                                     1FAA7 Symbols and Pictographs Extended-A
 🪨 rock                                                        1FAA8 Symbols and Pictographs Extended-A
+🪩 mirror ball                                                 1FAA9 Symbols and Pictographs Extended-A
+🪪 identification card                                         1FAAA Symbols and Pictographs Extended-A
+🪫 low battery                                                 1FAAB Symbols and Pictographs Extended-A
+🪬 hamsa                                                       1FAAC Symbols and Pictographs Extended-A
 🪰 fly                                                         1FAB0 Symbols and Pictographs Extended-A
 🪱 worm                                                        1FAB1 Symbols and Pictographs Extended-A
 🪲 beetle                                                      1FAB2 Symbols and Pictographs Extended-A
@@ -17861,9 +18122,16 @@ z latin small letter z                                           7A Basic Latin
 🪴 potted plant                                                1FAB4 Symbols and Pictographs Extended-A
 🪵 wood                                                        1FAB5 Symbols and Pictographs Extended-A
 🪶 feather                                                     1FAB6 Symbols and Pictographs Extended-A
+🪷 lotus                                                       1FAB7 Symbols and Pictographs Extended-A
+🪸 coral                                                       1FAB8 Symbols and Pictographs Extended-A
+🪹 empty nest                                                  1FAB9 Symbols and Pictographs Extended-A
+🪺 nest with eggs                                              1FABA Symbols and Pictographs Extended-A
 🫀 anatomical heart                                            1FAC0 Symbols and Pictographs Extended-A
 🫁 lungs                                                       1FAC1 Symbols and Pictographs Extended-A
 🫂 people hugging                                              1FAC2 Symbols and Pictographs Extended-A
+🫃 pregnant man                                                1FAC3 Symbols and Pictographs Extended-A
+🫄 pregnant person                                             1FAC4 Symbols and Pictographs Extended-A
+🫅 person with crown                                           1FAC5 Symbols and Pictographs Extended-A
 🫐 blueberries                                                 1FAD0 Symbols and Pictographs Extended-A
 🫑 bell pepper                                                 1FAD1 Symbols and Pictographs Extended-A
 🫒 olive                                                       1FAD2 Symbols and Pictographs Extended-A
@@ -17871,6 +18139,24 @@ z latin small letter z                                           7A Basic Latin
 🫔 tamale                                                      1FAD4 Symbols and Pictographs Extended-A
 🫕 fondue                                                      1FAD5 Symbols and Pictographs Extended-A
 🫖 teapot                                                      1FAD6 Symbols and Pictographs Extended-A
+🫗 pouring liquid                                              1FAD7 Symbols and Pictographs Extended-A
+🫘 beans                                                       1FAD8 Symbols and Pictographs Extended-A
+🫙 jar                                                         1FAD9 Symbols and Pictographs Extended-A
+🫠 melting face                                                1FAE0 Symbols and Pictographs Extended-A
+🫡 saluting face                                               1FAE1 Symbols and Pictographs Extended-A
+🫢 face with open eyes and hand over mouth                     1FAE2 Symbols and Pictographs Extended-A
+🫣 face with peeking eye                                       1FAE3 Symbols and Pictographs Extended-A
+🫤 face with diagonal mouth                                    1FAE4 Symbols and Pictographs Extended-A
+🫥 dotted line face                                            1FAE5 Symbols and Pictographs Extended-A
+🫦 biting lip                                                  1FAE6 Symbols and Pictographs Extended-A
+🫧 bubbles                                                     1FAE7 Symbols and Pictographs Extended-A
+🫰 hand with index finger and thumb crossed                    1FAF0 Symbols and Pictographs Extended-A
+🫱 rightwards hand                                             1FAF1 Symbols and Pictographs Extended-A
+🫲 leftwards hand                                              1FAF2 Symbols and Pictographs Extended-A
+🫳 palm down hand                                              1FAF3 Symbols and Pictographs Extended-A
+🫴 palm up hand                                                1FAF4 Symbols and Pictographs Extended-A
+🫵 index pointing at the viewer                                1FAF5 Symbols and Pictographs Extended-A
+🫶 heart hands                                                 1FAF6 Symbols and Pictographs Extended-A
 🬀 block sextant-1                                             1FB00 Symbols for Legacy Computing
 🬁 block sextant-2                                             1FB01 Symbols for Legacy Computing
 🬂 block sextant-12                                            1FB02 Symbols for Legacy Computing
